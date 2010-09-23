@@ -3,7 +3,7 @@
 
   Ch is a Bash utility for viewing, managing, and creating cheat sheets for
   developers and designers via git repositories. This is where all the cheat
-  sheets are currently stored. CH is available here http://github.com/visionmedia/ch-sheets
+  sheets are currently stored. CH is available here: [http://github.com/visionmedia/ch](http://github.com/visionmedia/ch)
   
 ## Contribute
 
